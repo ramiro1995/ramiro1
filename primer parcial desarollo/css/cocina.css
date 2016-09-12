@@ -1,0 +1,112 @@
+ 
+h1  
+{
+    color:sandybrown;
+font-family:cursive,sans-serif;
+    text-align: center;
+    
+}
+h1 span
+{
+    color:brown;
+font-family:cursive,sans-serif;
+    text-align: center;
+    
+}
+ 
+ 
+
+body
+{
+    background-color: blue;
+    
+     
+}
+
+   nav ul li{
+ display:inline-block;
+ list-style:none; 
+  padding: 5px 38px; 
+     border :10 solid black;
+   
+ }
+
+  nav ul li a{
+      
+text-shadow: 6px 7px 10px rgba(10,180,130,.9);
+ text-decoration: none;
+color: white;
+ text-align: center;
+      font-size: 25px;
+ 
+ }
+ footer,nav{
+border-radius: 1.5em ;
+background: #100380;
+margin: 2.5em auto;
+ max-width: 960px;
+ padding: 0.25em;
+     text-align: center;
+ }  
+
+  nav:hover{
+      background: black;
+      
+      
+ 
+ } 
+  
+img
+{ 
+    display: block;
+    margin: auto; 
+    
+max-width:600px;
+min-width:415px;
+ 
+    
+}
+fieldset h1
+{
+      color:greenyellow;
+font-family:cursive,sans-serif;
+    text-align: center;
+}
+fieldset
+{
+    
+    border: 8px dashed red;
+}
+p
+{
+    font-size: 20px;
+    font-family: sans-serif;
+    text-align: center;
+}
+.lista 
+{
+     
+    font-family: fantasy;
+    font-size: 24;
+    text-align: center;
+    color: aquamarine;
+    list-style:none;
+    align-self: center;
+}
+.tipo
+{
+    color: white;
+    
+}
+
+.boty
+{
+    background: url(fondo.jpg);
+    width: 750px;
+    height: 550px;
+     
+    float: right;
+        
+}
+
+ 
